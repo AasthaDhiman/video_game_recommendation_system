@@ -5,9 +5,7 @@ Using advanced machine learning, this system analyzes your game history, prefere
 
 DESCRIPTION OF DATA-
 app_id=Native product ID on Steam
-
 title=Product title
-
 date_release=Product release date
 
 win=Supports Windows?
