@@ -5,13 +5,23 @@ Using advanced machine learning, this system analyzes your game history, prefere
 
 DESCRIPTION OF DATA-
 app_id=Native product ID on Steam
+
 title=Product title
+
 date_release=Product release date
+
 win=Supports Windows?
+
 mac=Supports MacOS?
+
 linux=Supports Linux?
+
 rating=Product rating category
+
 positive_ratio=Ratio of positive feedbacks
+
 user_reviews=Amount of user reviews availble on the Steam page (NOT in the dataset)
+
 price_final=Price in US dollars $ calculated after the discount
+
 tags=genre
