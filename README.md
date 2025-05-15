@@ -4,8 +4,11 @@ Tired of scrolling through endless game lists? Our machine learning-powered syst
 Using advanced machine learning, this system analyzes your game history, preferences, and patterns from other gamers to recommend titles you'll probably enjoy. It combines your data with details like game genres, reviews, and popularity to serve up personalized picks—no more random guessing.
 
 DESCRIPTION OF DATA-
+
 app_id=Native product ID on Steam
+
 title=Product title
+
 date_release=Product release date
 
 win=Supports Windows?
